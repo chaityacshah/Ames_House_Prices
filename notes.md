@@ -50,3 +50,8 @@ Remove files from the index, or from the working tree and the index. git-rm will
 Finally, to commit the "removal" do something like:
 
 git commit -m "removed some files"
+
+# https://stackoverflow.com/questions/6181935/how-do-you-create-different-variable-names-while-in-a-loop
+
+le = preprocessing.LabelEncoder()
+le.fit(train2['Street'])
